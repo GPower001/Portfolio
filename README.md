@@ -20,4 +20,4 @@ This is my personal portfolio website, built with **Next.js**, **TypeScript**, a
 
 ---
 
-🚀 [Live Site](https://your-portfolio-url.com)
+🚀 [Live Site]https://dedegodspower.onrender.com
