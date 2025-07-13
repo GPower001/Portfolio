@@ -29,7 +29,7 @@ export default function Hero() {
             variants={textVariant()}
             className="text-4xl md:text-5xl lg:text-7xl font-bold tracking-tight"
           >
-            Hi, I'm <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-blue-500">Dede Godspower Oluwatomisn</span>
+            Hi, I'm <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-blue-500">Dede Godspower Oluwatomisin</span>
           </motion.h1>
           
           <motion.h2 
